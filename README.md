@@ -10,11 +10,11 @@
 
 - [x] add to hello world
 
-- [ ] add color to my hello world web page
+- [x] add color to my hello world web page
+
 
       
 
-![image](https://github.com/4ur0/4ur0.github.io/assets/168382907/367ccb20-677f-4c39-8451-ba84fafaac2a)
-
+!https://i.pinimg.com/236x/22/9e/87/229e87d97541264a7c381ab9c34bee6a.jpg
 
 [helloworld](https://4ur0.github.io/hello-world/)
