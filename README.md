@@ -12,6 +12,13 @@
 
 - [x] add color to my hello world web page
 
+- [x] add an image/s to your hello world page
+
+- [x] add a hyperlink back to your main webpage on your hello world webpage
+
+- [x] Add a css stylesheet to your html files. (this will be unifrom text formatting for all your webpages. )
+
+
 
       
 
